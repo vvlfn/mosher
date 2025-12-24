@@ -1,2 +1,2 @@
-from veemosher.gui.components.FilterList import FilterList
-from veemosher.gui.components.ImagePreview import ImagePreview
+from veemosher.gui.components.Right import RightWidget
+from veemosher.gui.components.Center import CenterWidget

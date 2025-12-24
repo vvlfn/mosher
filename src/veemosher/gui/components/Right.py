@@ -2,7 +2,7 @@ from PySide6.QtWidgets import QWidget, QVBoxLayout, QPushButton, QLayout
 from PySide6.QtCore import Qt
 
 
-class FilterList(QWidget):
+class RightWidget(QWidget):
     def __init__(self) -> None:
         super().__init__()
         self.mainLayout: QVBoxLayout = QVBoxLayout()
